@@ -98,9 +98,9 @@
 			<?php 
 			$login_check = Session::get('customer_login');
 			if ($login_check==false) {
-				echo '<a href="login.php">Đăng nhập</a></div>'; 
+				echo '<a href="login.php">ĐĂNG NHẬP</a></div>'; 
 			}else {
-				echo '<a href="?customer_id='.Session::get('customer_id').' ">Đăng xuất</a></div>'; 
+				echo '<a href="?customer_id='.Session::get('customer_id').' ">ĐĂNG XUẤT</a></div>'; 
 			}
 			 ?>
 

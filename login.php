@@ -92,7 +92,7 @@
 				  
 				  <div>
 					<input type="password" name="password" placeholder="Nhập Password..." style="
-    width: 95%;
+    width: 100%;
     height: 33px;
     margin-top: 7px;
 ">
