@@ -124,7 +124,7 @@
                         <label>Description</label>
                     </td>
                     <td>
-                        <textarea name="product_desc" class="tinymce"><?php echo $result_product['product_desc'] ?></textarea>
+                      <textarea name="product_desc" style="width: 347px;height:90px;"></textarea>
                     </td>
                 </tr>
                 <tr>
@@ -144,8 +144,7 @@
                         <img src="uploads/<?php echo $result_product['image'] ?>" width="100"><br>
                         <input name="image" type="file" />
                     </td>
-                </tr>
-                
+                </tr>               
                 <tr>
                     <td>
                         <label>Product Type</label>
@@ -165,9 +164,7 @@
                             <option selected value="0">Non-Featured</option>    
                             <?php 
                         }
-                             ?>
-                             
-                        
+                             ?>                                                  
                         </select>
                     </td>
                 </tr>

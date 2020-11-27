@@ -34,10 +34,7 @@
 					<th>Số lượng thêm</th>
 					<th>Số lượng sau nhập</th>
 					
-					<th>Ngày nhập</th>
-
-					
-					
+					<th>Ngày nhập</th>										
 				</tr>
 			</thead>
 			<tbody>

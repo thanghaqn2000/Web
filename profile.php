@@ -75,7 +75,7 @@
     			<td><?php echo $result['address']; ?></td>
     		</tr>
             <tr>
-                <td colspan="3"><a href="editprofile.php">Update profile</a></td>
+               
                
             </tr>
     		

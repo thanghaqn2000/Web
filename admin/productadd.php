@@ -100,7 +100,7 @@
                         <label>Mô tả</label>
                     </td>
                     <td>
-                        <textarea name="product_desc" class="tinymce"></textarea>
+                        <textarea name="product_desc" style="width: 347px;height:90px;"></textarea>
                     </td>
                 </tr>
                 <tr>

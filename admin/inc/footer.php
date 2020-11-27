@@ -5,7 +5,7 @@
     </div>
     <div id="site_info">
         <p>
-         &copy; Copyright <a href="http://trainingwithliveproject.com">@2019</a>. Shop Công Nghệ.
+         &copy; Copyright <a href="#">@2019  </a>Cửa hàng điện máy PTN.
         </p>
     </div>
 </body>

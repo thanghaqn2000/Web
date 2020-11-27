@@ -46,11 +46,11 @@
         <div class="grid_12 header-repeat">
             <div id="branding">
                 <div class="floatleft logo">
-                    <img src="img/livelogo.png" alt="Logo" />
+                     <img src="img/NTP_main.png" style="width:107px;" />
 				</div>
 				<div class="floatleft middle">
-					<h1>SHOP CÔNG NGHỆ</h1>
-					<p>www.abc.com</p>
+					<h1>Cửa hàng điện máy PTN</h1>
+                                        <a href="http://localhost/WebBangHang/WEB/index.php#">www.PTN.com</a>
 				</div>
                 <div class="floatright">
                     <div class="floatleft">
@@ -75,11 +75,7 @@
         <div class="clear">
         </div>
         <div class="grid_12">
-            <ul class="nav main">
-                <li class="ic-dashboard"><a href="index.php"><span>Dashboard</span></a> </li>
-                <li class="ic-form-style"><a href=""><span>Thông tin người dùng</span></a></li>
-				<li class="ic-typography"><a href="changepassword.php"><span>Thay đổi mật khẩu</span></a></li>
-				<li class="ic-grid-tables"><a href="inbox.php"><span>Đơn hàng</span></a></li>
+            <ul class="nav main">               
                 <li class="ic-charts"><a href="../index.php"><span>Website</span></a></li>
             </ul>
         </div>
